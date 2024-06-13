@@ -884,7 +884,7 @@ public class Menu extends javax.swing.JFrame {
         pnlTaiKhoanPage.setBackground(new java.awt.Color(255, 255, 255));
         pnlTaiKhoanPage.setPreferredSize(new java.awt.Dimension(940, 540));
 
-        jPanel3.setBackground(new java.awt.Color(20, 1, 128));
+        jPanel3.setBackground(new java.awt.Color(0, 0, 255));
 
         jLabel38.setFont(new java.awt.Font("Times New Roman", 1, 48)); // NOI18N
         jLabel38.setForeground(new java.awt.Color(255, 255, 255));
