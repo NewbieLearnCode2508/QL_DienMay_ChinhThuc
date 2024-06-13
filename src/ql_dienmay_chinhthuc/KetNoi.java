@@ -16,9 +16,9 @@ import java.sql.SQLException;
 public class KetNoi {
 
     // Thay đổi các thông tin sau để phù hợp với cấu hình của bạn
-    private static final String url = "jdbc:sqlserver://HADIRGO:1433;databaseName=QL_Dienmay_store";
+    private static final String url = "jdbc:sqlserver://ADONIS:1433;databaseName=QL_Dienmay_ChinhThuc";
     private static final String user = "sa";
-    private static final String password = "123456";
+    private static final String password = "123";
 
     public static Connection getConnection() {
         Connection connection = null;
